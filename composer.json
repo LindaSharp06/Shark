@@ -90,7 +90,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:niveshsaharan/laravel-model-settings.git"
+            "url": "git@github.com:enka1504/laravel-model-settings.git"
         }
     ]
 }

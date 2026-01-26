@@ -29,7 +29,7 @@ class InstallAdminCommand extends Command
         'laravel/nova' => '~3.0',
         'kabbouchi/nova-impersonate' => '^1.3',
         'epartment/nova-dependency-container' => '^1.2',
-        'niveshsaharan/novalinkresource' => '^1.0',
+        'enka1504/novalinkresource' => '^1.0',
         'spatie/nova-backup-tool' => '^4.0',
         'kabbouchi/nova-logs-tool' => '^0.3.0',
         'kreitje/nova-horizon-stats' => '^0.3.0',

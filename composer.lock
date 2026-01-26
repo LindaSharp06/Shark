@@ -344,12 +344,12 @@
             "version": "14.3.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/niveshsaharan/laravel-shopify.git",
+                "url": "https://github.com/enka1504/laravel-shopify.git",
                 "reference": "aacb24d9a174a7dfb6ecb59b99ba9352324a41c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/niveshsaharan/laravel-shopify/zipball/aacb24d9a174a7dfb6ecb59b99ba9352324a41c1",
+                "url": "https://api.github.com/repos/enka1504/laravel-shopify/zipball/aacb24d9a174a7dfb6ecb59b99ba9352324a41c1",
                 "reference": "aacb24d9a174a7dfb6ecb59b99ba9352324a41c1",
                 "shasum": ""
             },
@@ -6735,12 +6735,12 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/niveshsaharan/laravel-test-assertions.git",
+                "url": "https://github.com/enka1504/laravel-test-assertions.git",
                 "reference": "a944c7b3e550ef70a12428b6b306c6cd5eec6250"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/niveshsaharan/laravel-test-assertions/zipball/a944c7b3e550ef70a12428b6b306c6cd5eec6250",
+                "url": "https://api.github.com/repos/enka1504/laravel-test-assertions/zipball/a944c7b3e550ef70a12428b6b306c6cd5eec6250",
                 "reference": "a944c7b3e550ef70a12428b6b306c6cd5eec6250",
                 "shasum": ""
             },
@@ -6778,7 +6778,7 @@
             ],
             "description": "A set of helpful assertions when testing Laravel applications.",
             "support": {
-                "source": "https://github.com/niveshsaharan/laravel-test-assertions/tree/1.1.0"
+                "source": "https://github.com/enka1504/laravel-test-assertions/tree/1.1.0"
             },
             "time": "2020-07-24T12:14:35+00:00"
         },

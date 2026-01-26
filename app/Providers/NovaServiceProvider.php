@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\Facades\Hash;
 use Laravel\Nova\Nova;
 use Laravel\Nova\NovaApplicationServiceProvider;
-use NiveshSaharan\NovaLinkResource\NovaLinkResource;
+use enka1504\NovaLinkResource\NovaLinkResource;
 
 class NovaServiceProvider extends NovaApplicationServiceProvider
 {
